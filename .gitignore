@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.streamlit/
+data/jobs.db
+uploads/*
+!uploads/.gitkeep
